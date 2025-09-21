@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "140019518646",
+    "firebase_url": "https://smartlampfathan-default-rtdb.firebaseio.com",
+    "project_id": "smartlampfathan",
+    "storage_bucket": "smartlampfathan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140019518646:android:10d5ce90d5a1c40e8e2a17",
+        "android_client_info": {
+          "package_name": "com.fathan.projectpi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh86bn-KNjyaWGQVpSfFdPa6otQtcqwSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140019518646:android:2a4add622a65f7aa8e2a17",
+        "android_client_info": {
+          "package_name": "com.fathan.projectpifathan2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh86bn-KNjyaWGQVpSfFdPa6otQtcqwSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
