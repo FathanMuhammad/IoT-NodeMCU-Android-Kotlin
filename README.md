@@ -49,6 +49,8 @@ Pengguna dapat menyalakan, mematikan, dan memantau status lampu secara real-time
     - Buat project di Firebase Console
     - Aktifkan Realtime Database dan atur rules menjadi public (atau sesuai kebutuhan keamanan).
     - Catat Database URL dan API key.
+  
+    ![Firebase](firebase.png)
 
 3. Android App (Kotlin)
     - Buka project Android Studio.
