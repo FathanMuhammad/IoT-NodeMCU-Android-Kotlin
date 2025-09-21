@@ -13,7 +13,7 @@ Sistem terdiri dari:
 Pengguna dapat menyalakan, mematikan, dan memantau status lampu secara real-time melalui aplikasi Android yang terhubung dengan Firebase.
 
 ## Features
-![Diagram Arsitektur](aplikasi.jpg)
+![Aplikasi](aplikasi.jpg)
 - Kontrol lampu ON/OFF dari aplikasi Android.
 - Sinkronisasi status lampu secara real-time melalui Firebase.
 - Mendukung lebih dari satu lampu (multi-relay).
@@ -21,6 +21,7 @@ Pengguna dapat menyalakan, mematikan, dan memantau status lampu secara real-time
 - Tampilan aplikasi Android sederhana dengan tombol switch.
 
 ## Arsitektur Sistem
+![Arsitektur](flowchar.png)
 1. ESP8266
     - Membaca perintah dari Firebase Realtime Database.
     - Mengontrol relay untuk menyalakan/mematikan lampu.
