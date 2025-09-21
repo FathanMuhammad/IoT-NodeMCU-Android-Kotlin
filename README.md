@@ -1,4 +1,6 @@
 # Smart Lamp IoT with ESP8266, Firebase, and Android
+
+
 ## Deskripsi
 
 Proyek ini merupakan implementasi Internet of Things (IoT) untuk mengontrol lampu secara jarak jauh.
@@ -11,7 +13,7 @@ Sistem terdiri dari:
 Pengguna dapat menyalakan, mematikan, dan memantau status lampu secara real-time melalui aplikasi Android yang terhubung dengan Firebase.
 
 ## Features
-
+![Diagram Arsitektur](aplikasi.jpg)
 - Kontrol lampu ON/OFF dari aplikasi Android.
 - Sinkronisasi status lampu secara real-time melalui Firebase.
 - Mendukung lebih dari satu lampu (multi-relay).
