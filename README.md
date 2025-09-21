@@ -21,7 +21,7 @@ Pengguna dapat menyalakan, mematikan, dan memantau status lampu secara real-time
 - Tampilan aplikasi Android sederhana dengan tombol switch.
 
 ## Arsitektur Sistem
-![Arsitektur](flowchar.png)
+![Arsitektur](flowchart.png)
 1. ESP8266
     - Membaca perintah dari Firebase Realtime Database.
     - Mengontrol relay untuk menyalakan/mematikan lampu.
@@ -42,6 +42,8 @@ Pengguna dapat menyalakan, mematikan, dan memantau status lampu secara real-time
     - Masukkan kode program (Arduino IDE) dengan library Firebase ESP8266 Client (by Mobizt).
     - Isi kredensial Wi-Fi dan Firebase Database URL.
     - Upload kode ke board ESP8266.
+  
+    ![skematik](skematik_bb.png)
 
 2. Firebase Realtime Database
     - Buat project di Firebase Console
